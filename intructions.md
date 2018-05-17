@@ -1,6 +1,6 @@
 
 
-#Cooking and Egg:
+#Cooking an Egg:
 1. Turn on stove
 2. Add oil to pan
 3. Spread oil in pan
